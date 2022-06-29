@@ -1,6 +1,6 @@
 # DIO
 # Introdução ao React Native
-![WhatsApp Image 2022-06-26 at 21 50 48](https://user-images.githubusercontent.com/58638736/175841595-88c12ebb-24ac-4cc9-a37c-df3284847da5.jpeg)
+![WhatsApp Image 2022-06-26 at 21 50 48](https://user-images.githubusercontent.com/58638736/176343004-7db5b636-97c4-4f57-96b4-9688b0ecffef.jpeg)
 
 #Conteúdo
 - Conhecendo o React Native
